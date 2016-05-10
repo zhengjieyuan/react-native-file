@@ -1,0 +1,805 @@
+﻿{
+ "kind": "books#volumes",
+ "totalItems": 580,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "sJGFMzZL0uMC",
+   "etag": "it0vwEaus5A",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/sJGFMzZL0uMC",
+   "volumeInfo": {
+    "title": "Flash Writing",
+    "subtitle": "How to Write, Revise and Publish Stories Less Than 1,000 Words Long",
+    "authors": [
+     "Michael L. Wilson"
+    ],
+    "publisher": "Virtualbookworm Publishing",
+    "publishedDate": "2004",
+    "description": "Flash fiction is one of the hottest literary trends of the 21st century. Online magazines crave it, mainstream publications such as Esquire, The New Yorker, and Vanity Fair publish it, and many other markets and contests seek it. Flash Writing is your guide to writing, revising and publishing stories fewer than 1,000 words long. Learn how to generate story ideas, create characters, develop conflict, and establish setting and point of view for flash fiction. Then discover how to research, format, and submit your work to flash fiction markets. Shorter is better, and Flash Writing helps you learn how to create entertaining, publishable flash fiction.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1589396375"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781589396371"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 184,
+    "printType": "BOOK",
+    "categories": [
+     "Language Arts & Disciplines"
+    ],
+    "averageRating": 1.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.co.jp/books/content?id=sJGFMzZL0uMC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.co.jp/books/content?id=sJGFMzZL0uMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.co.jp/books?id=sJGFMzZL0uMC&printsec=frontcover&dq=subject:fiction&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.co.jp/books?id=sJGFMzZL0uMC&dq=subject:fiction&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.co.jp/books/about/Flash_Writing.html?hl=&id=sJGFMzZL0uMC"
+   },
+   "saleInfo": {
+    "country": "JP",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "JP",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://books.google.co.jp/books/reader?id=sJGFMzZL0uMC&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "mmNbvn9xLCEC",
+   "etag": "O6OdCnHBDfw",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/mmNbvn9xLCEC",
+   "volumeInfo": {
+    "title": "The Most Disreputable Trade",
+    "subtitle": "Publishing the Classics of English Poetry 1765-1810",
+    "authors": [
+     "Thomas F. Bonnell"
+    ],
+    "publisher": "OUP Oxford",
+    "publishedDate": "2008-04-17",
+    "description": "A publishing phenomenon began in Glasgow in 1765. Uniform pocket editions of the English Poets printed by Robert and Andrew Foulis formed the first link in a chain of literary products that has grown ever since, as we see from series like Penguin Classics and Oxford World Classics. Bonnell explores the origins of this phenomenon, analysing more than a dozen multi-volume poetry collections that sprang from the British press over the next half century. Why such collections flourished so quickly, who published them, what forms they assumed, how they were marketed and advertised, how they initiated their readers into the rites of mass-market consumerism, and what role they played in the construction of a national literature are all questions central to the study. The collections played out against an epic battle over copyright law, and involved fierce contention for market share in the 'classics' among rival publishers. It brought despair to the most powerful of London printers, William Strahan, who prophesied that competition of this nature would ruin bookselling, turning it into 'the most pitiful, beggarly, precarious, unprofitable, and disreputable Trade in Britain'. Samuel Johnson's Lives of the Poets were part of such a collection, dubbed 'Johnson's Poets'. The third edition of this collection, published in 1810, brought the national project to its high water mark: it contained 129 poets, plus extensive translations from the Greek and Roman classics. By this point, all the features that characterize modern series of vernacular classics had been established, and never since has such an ambitious expression of the poetic canon been repeated, as Bonnell shows by peering forward into the nineteenth century and beyond. Based on work with archival materials, newspapers, handbills, prospectuses, and above all the books themselves, Bonnell's findings shed light on all aspects of the book trade. Valuable bibliographical data is presented regarding every collection, forming an indispensable resource for future work on the history of the English poetry canon.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780191559730"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "0191559733"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": false
+    },
+    "pageCount": 408,
+    "printType": "BOOK",
+    "categories": [
+     "Literary Criticism"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.2.3.0.preview.2",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.co.jp/books/content?id=mmNbvn9xLCEC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.co.jp/books/content?id=mmNbvn9xLCEC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.co.jp/books?id=mmNbvn9xLCEC&dq=subject:fiction&hl=&cd=2&source=gbs_api",
+    "infoLink": "http://books.google.co.jp/books?id=mmNbvn9xLCEC&dq=subject:fiction&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.co.jp/books/about/The_Most_Disreputable_Trade.html?hl=&id=mmNbvn9xLCEC"
+   },
+   "saleInfo": {
+    "country": "JP",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 12868.0,
+     "currencyCode": "JPY"
+    },
+    "retailPrice": {
+     "amount": 11581.0,
+     "currencyCode": "JPY"
+    },
+    "buyLink": "http://books.google.co.jp/books?id=mmNbvn9xLCEC&dq=subject:fiction&hl=&buy=&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.2868E10,
+       "currencyCode": "JPY"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.1581E10,
+       "currencyCode": "JPY"
+      }
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "JP",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true
+    },
+    "pdf": {
+     "isAvailable": true
+    },
+    "webReaderLink": "http://books.google.co.jp/books/reader?id=mmNbvn9xLCEC&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "mKBOehKRx1kC",
+   "etag": "2BJvAWvGum0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/mKBOehKRx1kC",
+   "volumeInfo": {
+    "title": "If on a winter's night a traveler",
+    "authors": [
+     "Italo Calvino"
+    ],
+    "publisher": "Houghton Mifflin Harcourt",
+    "publishedDate": "2012-10-25",
+    "description": "Italo Calvino imagines a novel capable of endless mutations in this intricately crafted story about writing and readers. If on a Winter's Night a Traveler turns out to be not one novel but ten, each with a different plot, style, ambience, and author, and each interrupted at a moment of suspense. Together they form a labyrinth of literatures, known and unknown, alive and extinct, through which two readers, a male and a female, pursue both the story lines that intrigue them and one another.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780544133402"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "0544133404"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 276,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "averageRating": 3.0,
+    "ratingsCount": 52,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "2.12.9.0.preview.3",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.co.jp/books/content?id=mKBOehKRx1kC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.co.jp/books/content?id=mKBOehKRx1kC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.co.jp/books?id=mKBOehKRx1kC&printsec=frontcover&dq=subject:fiction&hl=&cd=3&source=gbs_api",
+    "infoLink": "http://books.google.co.jp/books?id=mKBOehKRx1kC&dq=subject:fiction&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.co.jp/books/about/If_on_a_winter_s_night_a_traveler.html?hl=&id=mKBOehKRx1kC"
+   },
+   "saleInfo": {
+    "country": "JP",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 1682.0,
+     "currencyCode": "JPY"
+    },
+    "retailPrice": {
+     "amount": 1514.0,
+     "currencyCode": "JPY"
+    },
+    "buyLink": "http://books.google.co.jp/books?id=mKBOehKRx1kC&dq=subject:fiction&hl=&buy=&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.682E9,
+       "currencyCode": "JPY"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.514E9,
+       "currencyCode": "JPY"
+      }
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "JP",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.co.jp/books/download/If_on_a_winter_s_night_a_traveler-sample-epub.acsm?id=mKBOehKRx1kC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.co.jp/books/download/If_on_a_winter_s_night_a_traveler-sample-pdf.acsm?id=mKBOehKRx1kC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://books.google.co.jp/books/reader?id=mKBOehKRx1kC&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "79Oq9xyRlaQC",
+   "etag": "9WCoRfrTSaE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/79Oq9xyRlaQC",
+   "volumeInfo": {
+    "title": "Bollettieri's Tennis Handbook",
+    "authors": [
+     "Nick Bollettieri"
+    ],
+    "publisher": "Human Kinetics",
+    "publishedDate": "2001",
+    "description": "As the most successful coach in tennis, Bollettieri has worked with Andre Agassi, Monica Seles, Boris Becker and others. In this book he shares his wealth of knowledge and insight into the world of tennis, with discussions of strategies, stroke development and physical and mental conditioning. 400 illustrations.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0736040366"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780736040365"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 435,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.co.jp/books/content?id=79Oq9xyRlaQC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.co.jp/books/content?id=79Oq9xyRlaQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.co.jp/books?id=79Oq9xyRlaQC&printsec=frontcover&dq=subject:fiction&hl=&cd=4&source=gbs_api",
+    "infoLink": "http://books.google.co.jp/books?id=79Oq9xyRlaQC&dq=subject:fiction&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.co.jp/books/about/Bollettieri_s_Tennis_Handbook.html?hl=&id=79Oq9xyRlaQC"
+   },
+   "saleInfo": {
+    "country": "JP",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "JP",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://books.google.co.jp/books/reader?id=79Oq9xyRlaQC&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "kDZSh9rtva4C",
+   "etag": "c4Xx7eSJxP8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/kDZSh9rtva4C",
+   "volumeInfo": {
+    "title": "Bag Of Bones",
+    "subtitle": "A Novel",
+    "authors": [
+     "Stephen King"
+    ],
+    "publisher": "Simon and Schuster",
+    "publishedDate": "1999-04-06",
+    "description": "From international bestseller Stephen King, a tale of grief, of love’s enduring bonds, and the haunting secrets of the past—the inspiration for the A&E miniseries. Stephen King’s most gripping and unforgettable novel, Bag of Bones, is a story of grief and a lost love’s enduring bonds, of a new love haunted by the secrets of the past, of an innocent child caught in a terrible crossfire. Set in the Maine territory King has made mythic, Bag of Bones recounts the plight of forty-year-old bestselling novelist Mike Noonan, who is unable to stop grieving even four years after the sudden death of his wife, Jo, and who can no longer bear to face the blank screen of his word processor. Now his nights are plagued by vivid nightmares of the house by the lake. Despite these dreams, or perhaps because of them, Mike finally returns to Sara Laughs, the Noonans’ isolated summer home. He finds his beloved Yankee town familiar on its surface, but much changed underneath—held in the grip of a powerful millionaire, Max Devore, who twists the very fabric of the community to his purpose: to take his three-year-old granddaughter away from her widowed young mother. As Mike is drawn into their struggle as he falls in love with both of them, he is also drawn into the mystery of Sara Laughs, now the site of ghostly visitations, ever-escalating nightmares, and the sudden recovery of his writing ability. What are the forces that have been unleashed here—and what do they want of Mike Noonan? As vivid and enthralling as King’s most enduring works, Bag of Bones resonates with what Amy Tan calls “the witty and obsessive voice of King’s powerful imagination.” It’s no secret that King is our most mesmerizing storyteller. In Bag of Bones—described by Gloria Naylor as “a love story about the dark places within us all”—he proves to be one of our most moving.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780684835419"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "068483541X"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": false
+    },
+    "pageCount": 544,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 43,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.6.2.0.preview.2",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.co.jp/books/content?id=kDZSh9rtva4C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.co.jp/books/content?id=kDZSh9rtva4C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.co.jp/books?id=kDZSh9rtva4C&printsec=frontcover&dq=subject:fiction&hl=&cd=5&source=gbs_api",
+    "infoLink": "http://books.google.co.jp/books?id=kDZSh9rtva4C&dq=subject:fiction&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.co.jp/books/about/Bag_Of_Bones.html?hl=&id=kDZSh9rtva4C"
+   },
+   "saleInfo": {
+    "country": "JP",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 926.0,
+     "currencyCode": "JPY"
+    },
+    "retailPrice": {
+     "amount": 833.0,
+     "currencyCode": "JPY"
+    },
+    "buyLink": "http://books.google.co.jp/books?id=kDZSh9rtva4C&dq=subject:fiction&hl=&buy=&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 9.26E8,
+       "currencyCode": "JPY"
+      },
+      "retailPrice": {
+       "amountInMicros": 8.33E8,
+       "currencyCode": "JPY"
+      }
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "JP",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.co.jp/books/download/Bag_Of_Bones-sample-epub.acsm?id=kDZSh9rtva4C&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://books.google.co.jp/books/reader?id=kDZSh9rtva4C&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "U6A95jkB3CcC",
+   "etag": "v8XvM7Y9CBQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/U6A95jkB3CcC",
+   "volumeInfo": {
+    "title": "Pym: A Novel",
+    "authors": [
+     "Mat Johnson"
+    ],
+    "publisher": "Spiegel & Grau",
+    "publishedDate": "2011-03-01",
+    "description": "“THE SHARPEST AND MOST UNUSUAL STORY I READ LAST YEAR . . . [Mat] Johnson’s satirical vision roves as freely as Kurt Vonnegut’s and is colored with the same sort of passionate humanitarianism.”—Maud Newton, New York Times Magazine NAMED ONE OF THE BEST BOOKS OF THE YEAR BY The Washington Post • Vanity Fair • Houston Chronicle • The Seattle Times • Salon • National Post • The A.V. Club Recently canned professor of American literature Chris Jaynes has just made a startling discovery: the manuscript of a crude slave narrative that confirms the reality of Edgar Allan Poe’s strange and only novel, The Narrative of Arthur Gordon Pym of Nantucket. Determined to seek out Tsalal, the remote island of pure and utter blackness that Poe describes, Jaynes convenes an all-black crew of six to follow Pym’s trail to the South Pole, armed with little but the firsthand account from which Poe derived his seafaring tale, a bag of bones, and a stash of Little Debbie snack cakes. Thus begins an epic journey by an unlikely band of adventurers under the permafrost of Antarctica, beneath the surface of American history, and behind one of literature’s great mysteries. “Outrageously entertaining, [Pym] brilliantly re-imagines and extends Edgar Allan Poe’s enigmatic and unsettling Narrative of Arthur Gordon Pym of Nantucket. . . . Part social satire, part meditation on race in America, part metafiction and, just as important, a rollicking fantasy adventure . . . reminiscent of Philip Roth in its seemingly effortless blend of the serious, comic and fantastic.”—Michael Dirda, The Washington Post “Blisteringly funny.”—Laura Miller, Salon “Relentlessly entertaining.”—The New York Times Book Review “Imagine Kurt Vonnegut having a beer with Ralph Ellison and Jules Verne.”—Vanity Fair “Screamingly funny . . . Reading Pym is like opening a big can of whoop-ass and then marveling—gleefully—at all the mayhem that ensues.”—Houston Chronicle",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780679603825"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "0679603824"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": false
+    },
+    "pageCount": 336,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 36,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.4.3.0.preview.2",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.co.jp/books/content?id=U6A95jkB3CcC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.co.jp/books/content?id=U6A95jkB3CcC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.co.jp/books?id=U6A95jkB3CcC&printsec=frontcover&dq=subject:fiction&hl=&cd=6&source=gbs_api",
+    "infoLink": "http://books.google.co.jp/books?id=U6A95jkB3CcC&dq=subject:fiction&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.co.jp/books/about/Pym_A_Novel.html?hl=&id=U6A95jkB3CcC"
+   },
+   "saleInfo": {
+    "country": "JP",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 1796.0,
+     "currencyCode": "JPY"
+    },
+    "retailPrice": {
+     "amount": 1616.0,
+     "currencyCode": "JPY"
+    },
+    "buyLink": "http://books.google.co.jp/books?id=U6A95jkB3CcC&dq=subject:fiction&hl=&buy=&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.796E9,
+       "currencyCode": "JPY"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.616E9,
+       "currencyCode": "JPY"
+      }
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "JP",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.co.jp/books/download/Pym_A_Novel-sample-epub.acsm?id=U6A95jkB3CcC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://books.google.co.jp/books/reader?id=U6A95jkB3CcC&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "EkOqALiuGq4C",
+   "etag": "4IkzUxqQdNs",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/EkOqALiuGq4C",
+   "volumeInfo": {
+    "title": "Kelly Country",
+    "subtitle": "A John Grimes Novel",
+    "authors": [
+     "A. Bertram Chandler"
+    ],
+    "publisher": "Prologue Books",
+    "publishedDate": "2012-08-01",
+    "description": "An If-Of-History Novel The United States won its independence in 1776, and the world has never been the same since. What if Australia had followed suit? How would our world have been different? That’s the theme that fascinated A. Bertram Chandler who saw, in the famous Ned Kelly, the possibility of an Australian Washington. For Ned Kelly was not just a lawless bushranger. He was a man of unusual imagination who created his own armor, gathered a band of Irish rebels, and took arms against the frontier law of old Australia. Now, by time machine and calculated interference, a certain 20th Century John Grimes goes back and alters history. Kelly survives! Utilizing the hidden discoveries of science, Kelly helps an Austrailian-Irish Republic rise from Down Under!",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781440553172"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1440553173"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "averageRating": 3.0,
+    "ratingsCount": 2,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.7.6.0.preview.3",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.co.jp/books/content?id=EkOqALiuGq4C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.co.jp/books/content?id=EkOqALiuGq4C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.co.jp/books?id=EkOqALiuGq4C&printsec=frontcover&dq=subject:fiction&hl=&cd=7&source=gbs_api",
+    "infoLink": "http://books.google.co.jp/books?id=EkOqALiuGq4C&dq=subject:fiction&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.co.jp/books/about/Kelly_Country.html?hl=&id=EkOqALiuGq4C"
+   },
+   "saleInfo": {
+    "country": "JP",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "JP",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true
+    },
+    "pdf": {
+     "isAvailable": true
+    },
+    "webReaderLink": "http://books.google.co.jp/books/reader?id=EkOqALiuGq4C&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "zUdrBsuRurkC",
+   "etag": "6fAiwloSLso",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/zUdrBsuRurkC",
+   "volumeInfo": {
+    "title": "Daniel Deronda",
+    "authors": [
+     "George Eliot"
+    ],
+    "publisher": "Wordsworth Editions",
+    "publishedDate": "1996-01-01",
+    "description": "The hero, Daniel Deronda, adopted son of an English aristocrat, discovers his Jewish heritage and with that his heritage.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1853261769"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781853261763"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 675,
+    "printType": "BOOK",
+    "categories": [
+     "Comics & Graphic Novels"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.1.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.co.jp/books/content?id=zUdrBsuRurkC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.co.jp/books/content?id=zUdrBsuRurkC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.co.jp/books?id=zUdrBsuRurkC&printsec=frontcover&dq=subject:fiction&hl=&cd=8&source=gbs_api",
+    "infoLink": "http://books.google.co.jp/books?id=zUdrBsuRurkC&dq=subject:fiction&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.co.jp/books/about/Daniel_Deronda.html?hl=&id=zUdrBsuRurkC"
+   },
+   "saleInfo": {
+    "country": "JP",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "JP",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://books.google.co.jp/books/reader?id=zUdrBsuRurkC&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "Ka30TBvUvzIC",
+   "etag": "n2136a/YTX4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Ka30TBvUvzIC",
+   "volumeInfo": {
+    "title": "The Price of a Child",
+    "subtitle": "A Novel",
+    "authors": [
+     "Lorene Cary"
+    ],
+    "publisher": "Vintage",
+    "publishedDate": "2011-03-23",
+    "description": "An intimate, gripping novel of the antebellum Underground Railroad, based on the true story of a valiant Philadelphia freedwoman -- the first novel we have had from the author of Black Ice, the \"stunning memoir\" (New York Times) of a black student's experience at a New England prep school in the 1970S. The Price of a Child opens in the fall of 1855. A Virginia planter is on his way to assume a diplomatic post in Nicaragua, accompanied by his cook, Ginnie, and two of her children (one of whom is his). Temporarily stranded in Philadelphia when they miss their steamboat, Ginnie makes a thrilling leap of the imagination: it is the moment she has been desperately waiting for, the moment she decides to be free. In broad daylight, under the furious gaze of her master, she walks straight out of slavery into a new life -- and into a whole new set of compromising positions. We follow Ginnie as she settles with a respectable and rambunctious black family, as she reinvents herself, christens herself Mercer Gray, dodges slave catchers, lectures far and wide in the cause of abolition, and falls in love with a man whose own ties are a formidable barrier to their happiness. And we see her agonizing all the while about the baby boy she had to leave behind on the plantation, whom she is determined to rescue. In a remarkable feat of historical empathy, Lorene Cary has created an authentic American heroine -- a woman who finds voice for the appalling loss and bitterness of her past, and who creates within herself a new humanity and an uncompromising freedom. From the Hardcover edition.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780307778482"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "0307778487"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": false
+    },
+    "pageCount": 336,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 5,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "3.5.4.0.preview.2",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.co.jp/books/content?id=Ka30TBvUvzIC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.co.jp/books/content?id=Ka30TBvUvzIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.co.jp/books?id=Ka30TBvUvzIC&printsec=frontcover&dq=subject:fiction&hl=&cd=9&source=gbs_api",
+    "infoLink": "http://books.google.co.jp/books?id=Ka30TBvUvzIC&dq=subject:fiction&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.co.jp/books/about/The_Price_of_a_Child.html?hl=&id=Ka30TBvUvzIC"
+   },
+   "saleInfo": {
+    "country": "JP",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 1684.0,
+     "currencyCode": "JPY"
+    },
+    "retailPrice": {
+     "amount": 1516.0,
+     "currencyCode": "JPY"
+    },
+    "buyLink": "http://books.google.co.jp/books?id=Ka30TBvUvzIC&dq=subject:fiction&hl=&buy=&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.684E9,
+       "currencyCode": "JPY"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.516E9,
+       "currencyCode": "JPY"
+      }
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "JP",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.co.jp/books/download/The_Price_of_a_Child-sample-epub.acsm?id=Ka30TBvUvzIC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://books.google.co.jp/books/reader?id=Ka30TBvUvzIC&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "iLglTK_NmbIC",
+   "etag": "pSpGBQdBBPM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/iLglTK_NmbIC",
+   "volumeInfo": {
+    "title": "The Second Scroll",
+    "authors": [
+     "Abraham Moses Klein",
+     "Zailig Pollock",
+     "Elizabeth A. Popham"
+    ],
+    "publisher": "University of Toronto Press",
+    "publishedDate": "2000",
+    "description": "First published in 1951, The Second Scroll is the only novel by A.M. Klein, a complex work rich with biblical, talmudic, kabbalistic, and literary allusions. This scholarly edition annotates and restores the text to Klein's original vision.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0802044786"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780802044785"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 223,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.0.0.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.co.jp/books/content?id=iLglTK_NmbIC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.co.jp/books/content?id=iLglTK_NmbIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.co.jp/books?id=iLglTK_NmbIC&printsec=frontcover&dq=subject:fiction&hl=&cd=10&source=gbs_api",
+    "infoLink": "http://books.google.co.jp/books?id=iLglTK_NmbIC&dq=subject:fiction&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.co.jp/books/about/The_Second_Scroll.html?hl=&id=iLglTK_NmbIC"
+   },
+   "saleInfo": {
+    "country": "JP",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "JP",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://books.google.co.jp/books/reader?id=iLglTK_NmbIC&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  }
+ ]
+}
